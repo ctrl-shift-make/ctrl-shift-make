@@ -16,4 +16,4 @@ I am a member of many communities based on coding.
 
 Hope you like my GitHub.
 
-- him, Rocky
+= him, Rocky
