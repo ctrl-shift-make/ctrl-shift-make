@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there fello
 
-<!--
-**ctrl-shift-make/ctrl-shift-make** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rocky, hobbyist coder and book lover.
+I like Python, Small Basic (yes, am a madlad), and Lua.
 
-Here are some ideas to get you started:
+I like to play video games too. Also try to make in them.. but fail misarably cause I'm too lazy. ¯\_(ツ)_/¯
+- Krunker - sparkkill
+- Roblox (achievement - madlad II) - RAF_RBLX3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I am a member of many communities based on coding.
+- Python Discord
+- Gurkult
+- LOVE2D Community
+
+Hope you like my GitHub.
+
+- him, Rocky
